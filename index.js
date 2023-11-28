@@ -213,6 +213,7 @@ async function getMangaData(dataPageUrl) {
 				}
 				result.chapterList.push(comic);
 			}
+			result.chapterList.reverse();
 		} else {
 			result.description += '\n\n[因版权、国家法规等原因，动漫之家漫画网已不再提供此漫画在线观看]\n[欢迎大家继续观看其他更多精彩漫画，此漫画恢复情况请关注动漫之家漫画网]';
 		}
