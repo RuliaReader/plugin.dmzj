@@ -13,3 +13,6 @@
 
 1. 在 Rulia 插件设置中手动添加一个名为 `Cookie` 的 Header，将 Cookie 填入其中.
 2. 使用网页弹窗进行登录，网址填写 `https://www.idmzj.com`，登录成功即可.
+
+## 停更
+ - 动漫之家团队已解散，并无限期停运，请移步[再漫画](https://github.com/LittleStar-OuO/plugin.ZaiManHua)下载再漫画插件.
